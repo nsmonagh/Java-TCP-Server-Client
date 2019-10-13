@@ -1,6 +1,17 @@
-# TCP
-ChatMessenger.jar includes compiled java file and referenced library.<br />
-ChatMessenger.java includes the source code.<br />
-commons-di-1.4.jar is the referenced library I used.<br />
+## Java TCP Chat Messenger
 
-In order to run the program: open up cmd.exe, cd to ChatMessenger.jar, execute the command "java -jar ChatMessenger.jar -h" to see usage information, ??, profit.
+An application used to create a TCP server from which clients can communicate on.
+
+## Installation and Setup Instructions
+
+Clone this repository. You will need `java` installed on your machine.  
+
+Installation for Ubuntu:
+
+`sudo apt-get install default-jre`
+
+To Run the Application:  
+
+* Navigate to the cloned repository.
+
+* Then to see usage information type `java -jar ChatMessenger.jar -h`
